@@ -1,5 +1,7 @@
 = WhoisJS
 
+{<img src="https://badges.production.guardrails.io/moul/whoisjs.svg" alt="GuardRails badge">}[https://www.guardrails.io]
+
 A WHOIS module for Node.js written in CoffeeScript. WhoisJS is able to perform lookups on over 200 TLDs.
 
 == Requirements
